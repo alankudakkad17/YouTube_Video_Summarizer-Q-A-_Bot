@@ -122,10 +122,6 @@ Suggestions for improvements:
 
 Contributions, issues and feature requests are welcome. Please open an issue or submit a PR with improvements.
 
-## License
-
-Specify a license for the project (e.g., MIT). The repository currently does not contain a license file — add one if you want to share the project.
-
 ## Contact
 
 If you have questions about the code, open an issue in the repository.
